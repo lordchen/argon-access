@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lordchen.github.io/argon-access/sitemap.xml
